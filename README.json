@@ -1,7 +1,1159 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FunASR",
+              "description": "Python & PyTorch Industrial-grade speech recognition toolkit with built-in speaker diarization (cam++), VAD, ASR (SenseVoice/Paraformer), and punctuation. 50+ languages, 170x realtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569959091,
+                "language": "Python",
+                "last_commit": "2026-08-21T04:17:05Z",
+                "owner": "modelscope",
+                "repo": "FunASR",
+                "stars": 19994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniVox",
+              "description": "MATLAB MiniVox is an open-source evaluation system for the online speaker diarization task.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262514192,
+                "language": "Cuda",
+                "last_commit": "2021-09-20T05:04:02Z",
+                "owner": "doerlbh",
+                "repo": "MiniVox",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeechBrain",
+              "description": "Python & PyTorch SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259710503,
+                "language": "Python",
+                "last_commit": "2026-06-15T11:24:25Z",
+                "owner": "speechbrain",
+                "repo": "speechbrain",
+                "stars": 11773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyAudioAnalysis",
+              "description": "Python Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23389271,
+                "language": "Python",
+                "last_commit": "2025-08-04T16:44:35Z",
+                "owner": "tyiannak",
+                "repo": "pyAudioAnalysis",
+                "stars": 6254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AaltoASR",
+              "description": "Python & Perl Speaker diarization scripts, based on AaltoASR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53589074,
+                "language": "Python",
+                "last_commit": "2019-01-03T10:32:13Z",
+                "owner": "aalto-speech",
+                "repo": "speaker-diarization",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kaldi-asr",
+              "description": "Bash Example scripts for speaker diarization on a portion of CALLHOME used in the 2000 NIST speaker recognition evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34275045,
+                "language": "Shell",
+                "last_commit": "2025-09-22T07:06:00Z",
+                "owner": "kaldi-asr",
+                "repo": "kaldi",
+                "stars": 15466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kaldi-speaker-diarization",
+              "description": "Bash Icelandic speaker diarization scripts using kaldi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240015202,
+                "language": "Shell",
+                "last_commit": "2024-08-12T08:25:45Z",
+                "owner": "cadia-lvl",
+                "repo": "kaldi-speaker-diarization",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyannote-audio",
+              "description": "Python Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53344691,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-04T17:30:45Z",
+                "owner": "pyannote",
+                "repo": "pyannote-audio",
+                "stars": 10461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyBK",
+              "description": "Python Speaker diarization using binary key speaker modelling. Computationally light solution that does not require external training data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165877893,
+                "language": "Python",
+                "last_commit": "2022-01-12T19:20:46Z",
+                "owner": "josepatino",
+                "repo": "pyBK",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speaker-Diarization",
+              "description": "Python Speaker diarization using uis-rnn and GhostVLAD. An easier way to support openset speakers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176850593,
+                "language": "Python",
+                "last_commit": "2021-07-01T01:02:40Z",
+                "owner": "taylorlu",
+                "repo": "Speaker-Diarization",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EEND",
+              "description": "Python & Bash & Perl End-to-End Neural Diarization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208146407,
+                "language": "Python",
+                "last_commit": "2021-08-30T17:06:09Z",
+                "owner": "hitachi-speech",
+                "repo": "EEND",
+                "stars": 436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VBx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239834186,
+                "language": "Python",
+                "last_commit": "2024-01-15T09:52:16Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "VBx",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Variational Bayes HMM over x-vectors diarization. x-vector extractor recipe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320296938,
+                "language": "Python",
+                "last_commit": "2022-03-11T18:24:09Z",
+                "owner": "phonexiaresearch",
+                "repo": "VBx-training-recipe",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RE-VERB",
+              "description": "Python & JavaScript RE: VERB is speaker diarization system, it allows the user to send/record audio of a conversation and receive timestamps of who spoke when.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197269664,
+                "language": "Python",
+                "last_commit": "2023-01-04T04:38:27Z",
+                "owner": "team-re-verb",
+                "repo": "RE-VERB",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StreamingSpeakerDiarization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394292135,
+                "language": "Python",
+                "last_commit": "2026-06-19T22:36:53Z",
+                "owner": "juanmc2005",
+                "repo": "diart",
+                "stars": 2021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Streaming speaker diarization, extends pyannote.audio",
+              "description": "to online processing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53344691,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-04T17:30:45Z",
+                "owner": "pyannote",
+                "repo": "pyannote-audio",
+                "stars": 10461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple_diarizer",
+              "description": "Python Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371131905,
+                "language": "Python",
+                "last_commit": "2024-05-02T03:05:41Z",
+                "owner": "cvqluu",
+                "repo": "simple_diarizer",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Picovoice Falcon",
+              "description": "C & Python A lightweight, accurate, and fast speaker diarization engine written in C and available in Python, running on CPU with minimal overhead.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 690740039,
+                "language": "Python",
+                "last_commit": "2026-08-12T22:35:30Z",
+                "owner": "Picovoice",
+                "repo": "falcon",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiaPer",
+              "description": "Python Pytorch implementation for DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors including models pre-trained on free and public data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728712065,
+                "language": "Python",
+                "last_commit": "2024-02-08T20:05:21Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "DiaPer",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sherpa-onnx",
+              "description": "C++ & C & & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift Support speaker diarization, speech recognition, and text-to speech on various platforms with various language bindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 531380835,
+                "language": "C++",
+                "last_commit": "2026-08-24T11:14:47Z",
+                "owner": "k2-fsa",
+                "repo": "sherpa-onnx",
+                "stars": 14356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluidAudio",
+              "description": "Swift A native Swift speaker diarization library for Apple platforms, using CoreML for efficient, real-time audio processing with high accuracy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1006258471,
+                "language": "Swift",
+                "last_commit": "2026-08-23T00:04:40Z",
+                "owner": "FluidInference",
+                "repo": "FluidAudio",
+                "stars": 2684
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Framework"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyannote-metrics",
+              "description": "Python A toolkit for reproducible evaluation, diagnostic, and error analysis of speaker diarization systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19507927,
+                "language": "Python",
+                "last_commit": "2026-07-29T21:22:24Z",
+                "owner": "pyannote",
+                "repo": "pyannote-metrics",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SimpleDER",
+              "description": "Python A lightweight library to compute Diarization Error Rate (DER).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167809355,
+                "language": "Python",
+                "last_commit": "2026-01-14T19:57:25Z",
+                "owner": "wq2012",
+                "repo": "SimpleDER",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiarizationLM",
+              "description": "Python Implements Word Error Rate (WER), Word Diarization Error Rate (WDER), and concatenated minimum-permutation Word Error Rate (cpWER).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151739799,
+                "language": "Python",
+                "last_commit": "2025-08-12T17:57:16Z",
+                "owner": "google",
+                "repo": "speaker-id",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NIST md-eval",
+              "description": "Perl (1) modified md-eval.pl from Mary Tai Knox; (2) md-eval-v21.pl from jitendra; (3) md-eval-22.pl from nryant",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18262815,
+                "language": "C",
+                "last_commit": "2019-07-25T14:49:16Z",
+                "owner": "jitendrab",
+                "repo": "btp",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dscore",
+              "description": "Python & Perl Diarization scoring tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120041086,
+                "language": "Python",
+                "last_commit": "2026-04-08T13:05:44Z",
+                "owner": "nryant",
+                "repo": "dscore",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sequence Match Accuracy",
+              "description": "Python Match the accuracy of two sequences with Hungarian algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 154288965,
+                "language": "Python",
+                "last_commit": "2024-09-25T14:33:18Z",
+                "owner": "google",
+                "repo": "uis-rnn",
+                "stars": 1588
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spyder",
+              "description": "Python & C++ Simple Python package for fast DER computation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340756841,
+                "language": "C++",
+                "last_commit": "2023-06-29T19:54:48Z",
+                "owner": "desh2608",
+                "repo": "spyder",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CDER",
+              "description": "Python Conversational DER from The Conversational Short-phrase Speaker Diarization (CSSD) Task: Dataset, Evaluation Metric and Baselines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514516929,
+                "language": "Python",
+                "last_commit": "2022-09-13T12:53:00Z",
+                "owner": "SpeechClub",
+                "repo": "CDER_Metric",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evaluation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uis-rnn",
+              "description": "Python & PyTorch Google's Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, for Fully Supervised Speaker Diarization. This clustering algorithm is supervised.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 154288965,
+                "language": "Python",
+                "last_commit": "2024-09-25T14:33:18Z",
+                "owner": "google",
+                "repo": "uis-rnn",
+                "stars": 1588
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uis-rnn-sml",
+              "description": "Python & PyTorch A variant of UIS-RNN, for the paper Supervised Online Diarization with Sample Mean Loss for Multi-Domain Data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203371775,
+                "language": "Python",
+                "last_commit": "2020-04-15T16:57:00Z",
+                "owner": "DonkeyShot21",
+                "repo": "uis-rnn-sml",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DNC",
+              "description": "Python & ESPnet Transformer-based Discriminative Neural Clustering (DNC) for Speaker Diarisation. Like UIS-RNN, it is supervised.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216277803,
+                "language": "Python",
+                "last_commit": "2022-04-08T10:12:05Z",
+                "owner": "FlorianKrey",
+                "repo": "DNC",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpectralCluster",
+              "description": "Python Spectral clustering with affinity matrix refinement operations, auto-tune, and speaker turn constraints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166451886,
+                "language": "Python",
+                "last_commit": "2024-09-25T15:39:13Z",
+                "owner": "wq2012",
+                "repo": "SpectralCluster",
+                "stars": 554
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PLDA",
+              "description": "Python Probabilistic Linear Discriminant Analysis & classification, written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98214938,
+                "language": "Python",
+                "last_commit": "2022-03-28T11:35:06Z",
+                "owner": "RaviSoji",
+                "repo": "plda",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PLDA",
+              "description": "C++ Open-source implementation of simplified PLDA (Probabilistic Linear Discriminant Analysis).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26632452,
+                "language": "C",
+                "last_commit": "2014-11-14T13:24:01Z",
+                "owner": "mrouvier",
+                "repo": "plda",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Auto-Tuning Spectral Clustering",
+              "description": "Python Auto-tuning Spectral Clustering method that does not need development set or supervised tuning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227214812,
+                "language": "Python",
+                "last_commit": "2022-04-08T23:02:11Z",
+                "owner": "tango4j",
+                "repo": "Auto-Tuning-Spectral-Clustering",
+                "stars": 125
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clustering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "resemble-ai/Resemblyzer",
+              "description": "d-vector Python & PyTorch PyTorch implementation of generalized end-to-end loss for speaker verification, which can be used for voice cloning and diarization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202577283,
+                "language": "Python",
+                "last_commit": "2023-10-12T09:35:22Z",
+                "owner": "resemble-ai",
+                "repo": "Resemblyzer",
+                "stars": 3299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Speaker_Verification",
+              "description": "d-vector Python & TensorFlow Tensorflow implementation of generalized end-to-end loss for speaker verification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135418539,
+                "language": "Python",
+                "last_commit": "2021-10-09T02:47:57Z",
+                "owner": "Janghyun1230",
+                "repo": "Speaker_Verification",
+                "stars": 366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyTorch_Speaker_Verification",
+              "description": "d-vector Python & PyTorch PyTorch implementation of \"Generalized End-to-End Loss for Speaker Verification\" by Wan, Li et al. With UIS-RNN integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149682330,
+                "language": "Python",
+                "last_commit": "2022-01-20T11:54:08Z",
+                "owner": "HarryVolek",
+                "repo": "PyTorch_Speaker_Verification",
+                "stars": 600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-Time Voice Cloning",
+              "description": "d-vector Python & PyTorch Implementation of \"Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis\" (SV2TTS) with a vocoder that works in real-time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188660663,
+                "language": "Python",
+                "last_commit": "2026-03-09T10:31:58Z",
+                "owner": "CorentinJ",
+                "repo": "Real-Time-Voice-Cloning",
+                "stars": 60108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deep-speaker",
+              "description": "d-vector Python & Keras Third party implementation of the Baidu paper Deep Speaker: an End-to-End Neural Speaker Embedding System.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91767564,
+                "language": "Python",
+                "last_commit": "2024-04-13T15:09:03Z",
+                "owner": "philipperemy",
+                "repo": "deep-speaker",
+                "stars": 941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "x-vector-kaldi-tf",
+              "description": "x-vector Python & TensorFlow & Perl Tensorflow implementation of x-vector topology on top of Kaldi recipe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159197355,
+                "language": "Python",
+                "last_commit": "2019-11-05T17:48:35Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "x-vector-kaldi-tf",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kaldi-ivector",
+              "description": "i-vector C++ & Perl Extension to Kaldi implementing the standard i-vector hyperparameter estimation and i-vector extraction procedure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49192023,
+                "language": "C++",
+                "last_commit": "2018-02-23T06:46:53Z",
+                "owner": "idiap",
+                "repo": "kaldi-ivector",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "voxceleb-ivector",
+              "description": "i-vector Perl Voxceleb1 i-vector based speaker recognition system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128821733,
+                "language": "Perl",
+                "last_commit": "2018-05-22T21:54:54Z",
+                "owner": "swshon",
+                "repo": "voxceleb-ivector",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch_xvectors",
+              "description": "x-vector Python & PyTorch PyTorch implementation of Voxceleb x-vectors. Additionaly, includes meta-learning architectures for embedding training. Evaluated with speaker diarization and speaker verification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249904636,
+                "language": "Python",
+                "last_commit": "2020-11-11T15:58:11Z",
+                "owner": "manojpamk",
+                "repo": "pytorch_xvectors",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asv-subtools",
+              "description": "i-vector & x-vector Kaldi & PyTorch ASV-Subtools is developed based on Pytorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244350981,
+                "language": "Python",
+                "last_commit": "2024-08-05T05:55:44Z",
+                "owner": "Snowdar",
+                "repo": "asv-subtools",
+                "stars": 636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeSpeaker",
+              "description": "x-vector & r-vector Python & C++ & PyTorch WeSpeaker is a research and production oriented speaker verification, recognition and diarization toolkit, which supports very strong recipes with on-the-fly data preparation, model training and evaluation, as well as runtime C++ codes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411337492,
+                "language": "Python",
+                "last_commit": "2026-07-08T04:25:34Z",
+                "owner": "wenet-e2e",
+                "repo": "wespeaker",
+                "stars": 1388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReDimNet",
+              "description": "improved resnet Pytorch Neural network architecture presented in the paper Reshape Dimensions Network for Speaker Recognition",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813032861,
+                "language": "Python",
+                "last_commit": "2026-07-09T15:33:53Z",
+                "owner": "IDRnD",
+                "repo": "redimnet",
+                "stars": 209
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speaker embedding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "change_detection",
+              "description": "Python & Keras Code for Speaker Change Detection in Broadcast TV using Bidirectional Long Short-Term Memory Networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85595269,
+                "language": null,
+                "last_commit": "2020-07-14T02:30:42Z",
+                "owner": "yinruiqing",
+                "repo": "change_detection",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tidydiarize",
+              "description": "Python Diarization inside OpenAI Whisper decoder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612504890,
+                "language": "Python",
+                "last_commit": "2023-11-06T07:53:32Z",
+                "owner": "akashmjn",
+                "repo": "tinydiarize",
+                "stars": 552
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speaker change detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibROSA",
+              "description": "Python Python library for audio and music analysis. https://librosa.github.io/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6309729,
+                "language": "Python",
+                "last_commit": "2026-08-22T13:06:58Z",
+                "owner": "librosa",
+                "repo": "librosa",
+                "stars": 8572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python_speech_features",
+              "description": "Python This library provides common speech features for ASR including MFCCs and filterbank energies. https://python-speech-features.readthedocs.io/en/latest/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14005795,
+                "language": "Python",
+                "last_commit": "2021-10-20T10:08:48Z",
+                "owner": "jameslyons",
+                "repo": "python_speech_features",
+                "stars": 2423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyAudioAnalysis",
+              "description": "Python Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23389271,
+                "language": "Python",
+                "last_commit": "2025-08-04T16:44:35Z",
+                "owner": "tyiannak",
+                "repo": "pyAudioAnalysis",
+                "stars": 6254
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio feature extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyroomacoustics",
+              "description": "Python Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios. https://pyroomacoustics.readthedocs.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48544147,
+                "language": "Python",
+                "last_commit": "2026-07-17T01:55:51Z",
+                "owner": "LCAV",
+                "repo": "pyroomacoustics",
+                "stars": 1929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gpuRIR",
+              "description": "Python Python library for Room Impulse Response (RIR) simulation with GPU acceleration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152045184,
+                "language": "Cuda",
+                "last_commit": "2025-07-18T11:25:57Z",
+                "owner": "DavidDiazGuerra",
+                "repo": "gpuRIR",
+                "stars": 610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rir_simulator_python",
+              "description": "Python Room impulse response simulator using python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107658069,
+                "language": "Python",
+                "last_commit": "2020-06-22T08:19:32Z",
+                "owner": "sunits",
+                "repo": "rir_simulator_python",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WavAugment",
+              "description": "Python & PyTorch WavAugment performs data augmentation on audio data. The audio data is represented as pytorch tensors",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 275165670,
+                "language": "Python",
+                "last_commit": "2021-08-30T18:49:46Z",
+                "owner": "facebookresearch",
+                "repo": "WavAugment",
+                "stars": 688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EEND_dataprep",
+              "description": "Bash & Python Recipes for generating simulated conversations used to train end-to-end diarization models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473163244,
+                "language": "Shell",
+                "last_commit": "2025-03-28T18:36:25Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "EEND_dataprep",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio data augmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VB Diarization",
+              "description": "Python VB Diarization with Eigenvoice and HMM Priors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169517129,
+                "language": "Python",
+                "last_commit": "2021-07-27T01:53:58Z",
+                "owner": "wq2012",
+                "repo": "VB_diarization",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOVER-Lap",
+              "description": "Python Python package for combining diarization system outputs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292422269,
+                "language": "Python",
+                "last_commit": "2026-08-03T18:00:36Z",
+                "owner": "desh2608",
+                "repo": "dover-lap",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diar-az",
+              "description": "Python Data formatting tool to support the ruv-di dataset. Kaldi to Gecko to Kaldi and corpus and back",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272397838,
+                "language": "Python",
+                "last_commit": "2024-09-24T05:16:51Z",
+                "owner": "cadia-lvl",
+                "repo": "diar-az",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other software"
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2000 NIST Speaker Recognition Evaluation",
+              "description": "Disk-6 (Switchboard), Disk-8 (CALLHOME) Multiple $2400.00 Evaluation Plan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151739799,
+                "language": "Python",
+                "last_commit": "2025-08-12T17:57:16Z",
+                "owner": "google",
+                "repo": "speaker-id",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CALLHOME American English Speech",
+              "description": "CALLHOME American English Transcripts en $1500.00 + $1000.00 CH109 whitelist",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151739799,
+                "language": "Python",
+                "last_commit": "2025-08-12T17:57:16Z",
+                "owner": "google",
+                "repo": "speaker-id",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VoxConverse",
+              "description": "TBD TBD Free VoxConverse is an audio-visual diarisation dataset consisting of over 50 hours of multispeaker clips of human speech, extracted from YouTube videos",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279545997,
+                "language": null,
+                "last_commit": "2022-07-26T18:48:44Z",
+                "owner": "joonson",
+                "repo": "voxconverse",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniVox Benchmark",
+              "description": "MiniVox Benchmark en Free MiniVox is an automatic framework to transform any speaker-labelled dataset into continuous speech datastream with episodically revealed label feedbacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262514192,
+                "language": "Cuda",
+                "last_commit": "2021-09-20T05:04:02Z",
+                "owner": "doerlbh",
+                "repo": "MiniVox",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The AliMeeting Corpus",
+              "description": "Together with audios zh Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419168564,
+                "language": "Python",
+                "last_commit": "2022-06-10T02:51:32Z",
+                "owner": "yufan-aslp",
+                "repo": "AliMeeting",
+                "stars": 143
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Diarization datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BookTubeSpeech",
+              "description": "8K 8K en Free Audio samples extracted from BookTube videos - videos where people share their opinions on books - from YouTube. The dataset can be downloaded using BookTubeSpeech-download.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257345224,
+                "language": "Python",
+                "last_commit": "2020-04-21T13:52:45Z",
+                "owner": "wq2012",
+                "repo": "BookTubeSpeech-download",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NISP-Dataset",
+              "description": "? 345 hi, kn, ml, ta, te (all Indian languages) Free This dataset contains speech recordings along with speaker physical parameters (height, weight, ... ) as well as regional information and linguistic information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262997790,
+                "language": "Shell",
+                "last_commit": "2022-08-09T02:26:43Z",
+                "owner": "iiscleap",
+                "repo": "NISP-Dataset",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speaker embedding training sets"
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Voice Identity Techniques: From core algorithms to engineering practice (Chinese)",
+              "description": "by Quan Wang, 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268415605,
+                "language": null,
+                "last_commit": "2022-09-12T17:33:13Z",
+                "owner": "wq2012",
+                "repo": "VoiceIdentityBook",
+                "stars": 176
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        }
+      ],
+      "title": "Other learning materials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ariso AI",
+          "description": "OATS - open-source macOS app for meeting transcription and notes with speaker diarization and optional fully offline mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1247591069,
+            "language": "Rust",
+            "last_commit": "2026-08-23T03:27:16Z",
+            "owner": "ariso-ai",
+            "repo": "oats",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Products"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:34:45.905Z",
+    "last_updated": "2026-08-24T14:06:24.602Z",
     "original_repository": "wq2012/awesome-diarization",
     "original_repository_id": 166505931,
     "original_repository_sha": "fc8b3f9faba0b87187ef104b44a2d6041833f09d",
