@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 569959091,
                 "language": "Python",
-                "last_commit": "2026-08-21T04:17:05Z",
+                "last_commit": "2026-08-24T14:38:23Z",
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 19994
+                "stars": 19997
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 259710503,
                 "language": "Python",
-                "last_commit": "2026-06-15T11:24:25Z",
+                "last_commit": "2026-08-24T21:57:12Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
                 "stars": 11773
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10461
+                "stars": 10463
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10461
+                "stars": 10463
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-24T11:14:47Z",
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 14356
+                "stars": 14361
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-23T00:04:40Z",
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2684
+                "stars": 2688
               }
             }
           ],
@@ -578,7 +578,7 @@
                 "last_commit": "2023-10-12T09:35:22Z",
                 "owner": "resemble-ai",
                 "repo": "Resemblyzer",
-                "stars": 3299
+                "stars": 3300
               }
             },
             {
@@ -623,7 +623,7 @@
                 "last_commit": "2026-03-09T10:31:58Z",
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60108
+                "stars": 60109
               }
             },
             {
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:24.602Z",
+    "last_updated": "2026-08-24T22:39:53.675Z",
     "original_repository": "wq2012/awesome-diarization",
     "original_repository_id": 166505931,
     "original_repository_sha": "fc8b3f9faba0b87187ef104b44a2d6041833f09d",
