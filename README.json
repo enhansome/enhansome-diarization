@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T14:38:23Z",
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20004
+                "stars": 20017
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 259710503,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:57:12Z",
+                "last_commit": "2026-08-25T21:45:40Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11774
+                "stars": 11778
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2025-09-22T07:06:00Z",
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15464
+                "stars": 15468
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10462
+                "stars": 10467
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-06-19T22:36:53Z",
                 "owner": "juanmc2005",
                 "repo": "diart",
-                "stars": 2022
+                "stars": 2021
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10462
+                "stars": 10467
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-25T03:44:25Z",
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 14372
+                "stars": 14386
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-23T00:04:40Z",
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2689
+                "stars": 2696
               }
             }
           ],
@@ -354,7 +354,7 @@
                 "last_commit": "2026-01-14T19:57:25Z",
                 "owner": "wq2012",
                 "repo": "SimpleDER",
-                "stars": 62
+                "stars": 63
               }
             },
             {
@@ -511,7 +511,7 @@
                 "last_commit": "2024-09-25T15:39:13Z",
                 "owner": "wq2012",
                 "repo": "SpectralCluster",
-                "stars": 554
+                "stars": 555
               }
             },
             {
@@ -623,7 +623,7 @@
                 "last_commit": "2026-03-09T10:31:58Z",
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60108
+                "stars": 60110
               }
             },
             {
@@ -638,7 +638,7 @@
                 "last_commit": "2024-04-13T15:09:03Z",
                 "owner": "philipperemy",
                 "repo": "deep-speaker",
-                "stars": 941
+                "stars": 942
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2026-07-08T04:25:34Z",
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
-                "stars": 1388
+                "stars": 1392
               }
             },
             {
@@ -743,7 +743,7 @@
                 "last_commit": "2026-07-09T15:33:53Z",
                 "owner": "IDRnD",
                 "repo": "redimnet",
-                "stars": 209
+                "stars": 212
               }
             }
           ],
@@ -866,7 +866,7 @@
                 "archived": false,
                 "id": 152045184,
                 "language": "Cuda",
-                "last_commit": "2025-07-18T11:25:57Z",
+                "last_commit": "2026-08-25T08:00:44Z",
                 "owner": "DavidDiazGuerra",
                 "repo": "gpuRIR",
                 "stars": 610
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:27.507Z",
+    "last_updated": "2026-08-25T22:41:06.816Z",
     "original_repository": "wq2012/awesome-diarization",
     "original_repository_id": 166505931,
     "original_repository_sha": "fc8b3f9faba0b87187ef104b44a2d6041833f09d",
