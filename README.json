@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 569959091,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:55:58Z",
+                "last_commit": "2026-08-27T09:32:44Z",
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20037
+                "stars": 20047
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-25T22:43:42Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11785
+                "stars": 11784
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-08-04T16:44:35Z",
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6254
+                "stars": 6255
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10476
+                "stars": 10478
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10476
+                "stars": 10478
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-25T03:44:25Z",
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 14414
+                "stars": 14425
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-23T00:04:40Z",
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2700
+                "stars": 2701
               }
             }
           ],
@@ -728,7 +728,7 @@
                 "last_commit": "2026-07-08T04:25:34Z",
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
-                "stars": 1392
+                "stars": 1393
               }
             },
             {
@@ -780,7 +780,7 @@
                 "last_commit": "2023-11-06T07:53:32Z",
                 "owner": "akashmjn",
                 "repo": "tinydiarize",
-                "stars": 552
+                "stars": 553
               }
             }
           ],
@@ -832,7 +832,7 @@
                 "last_commit": "2025-08-04T16:44:35Z",
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6254
+                "stars": 6255
               }
             }
           ],
@@ -1153,9 +1153,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:07:04.646Z",
-    "original_repository": "wq2012/awesome-diarization",
-    "original_repository_id": 166505931,
+    "last_updated": "2026-08-27T11:40:20.624Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 166505931,
+      "language": null,
+      "last_commit": "2026-08-12T13:14:48Z",
+      "owner": "wq2012",
+      "repo": "awesome-diarization",
+      "stars": 1893
+    },
     "original_repository_sha": "fc8b3f9faba0b87187ef104b44a2d6041833f09d",
     "enhanced_repository": "enhansome/enhansome-diarization",
     "enhanced_repository_description": null,
