@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 569959091,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:32:44Z",
+                "last_commit": "2026-08-28T03:28:19Z",
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20047
-              }
+                "stars": 20051
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "doerlbh",
                 "repo": "MiniVox",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 259710503,
                 "language": "Python",
-                "last_commit": "2026-08-25T22:43:42Z",
+                "last_commit": "2026-08-27T13:48:19Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11784
-              }
+                "stars": 11788
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2025-08-04T16:44:35Z",
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6255
-              }
+                "stars": 6256
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "aalto-speech",
                 "repo": "speaker-diarization",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -92,8 +97,9 @@
                 "last_commit": "2025-09-22T07:06:00Z",
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15469
-              }
+                "stars": 15468
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "cadia-lvl",
                 "repo": "kaldi-speaker-diarization",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10478
-              }
+                "stars": 10479
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "josepatino",
                 "repo": "pyBK",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "taylorlu",
                 "repo": "Speaker-Diarization",
                 "stars": 502
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "hitachi-speech",
                 "repo": "EEND",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "BUTSpeechFIT",
                 "repo": "VBx",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "phonexiaresearch",
                 "repo": "VBx-training-recipe",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "team-re-verb",
                 "repo": "RE-VERB",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "juanmc2005",
                 "repo": "diart",
                 "stars": 2022
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -242,8 +257,9 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10478
-              }
+                "stars": 10479
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "cvqluu",
                 "repo": "simple_diarizer",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "Picovoice",
                 "repo": "falcon",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "BUTSpeechFIT",
                 "repo": "DiaPer",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -302,8 +321,9 @@
                 "last_commit": "2026-08-25T03:44:25Z",
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 14425
-              }
+                "stars": 14443
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -317,8 +337,9 @@
                 "last_commit": "2026-08-23T00:04:40Z",
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2701
-              }
+                "stars": 2706
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -340,7 +361,8 @@
                 "owner": "pyannote",
                 "repo": "pyannote-metrics",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "wq2012",
                 "repo": "SimpleDER",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "google",
                 "repo": "speaker-id",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "jitendrab",
                 "repo": "btp",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "nryant",
                 "repo": "dscore",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "google",
                 "repo": "uis-rnn",
                 "stars": 1588
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "desh2608",
                 "repo": "spyder",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "SpeechClub",
                 "repo": "CDER_Metric",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -467,7 +496,8 @@
                 "owner": "google",
                 "repo": "uis-rnn",
                 "stars": 1588
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "DonkeyShot21",
                 "repo": "uis-rnn-sml",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "FlorianKrey",
                 "repo": "DNC",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "wq2012",
                 "repo": "SpectralCluster",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "RaviSoji",
                 "repo": "plda",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -542,7 +576,8 @@
                 "owner": "mrouvier",
                 "repo": "plda",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -557,7 +592,8 @@
                 "owner": "tango4j",
                 "repo": "Auto-Tuning-Spectral-Clustering",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -579,7 +615,8 @@
                 "owner": "resemble-ai",
                 "repo": "Resemblyzer",
                 "stars": 3300
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "Janghyun1230",
                 "repo": "Speaker_Verification",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -609,7 +647,8 @@
                 "owner": "HarryVolek",
                 "repo": "PyTorch_Speaker_Verification",
                 "stars": 600
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -623,8 +662,9 @@
                 "last_commit": "2026-03-09T10:31:58Z",
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60110
-              }
+                "stars": 60116
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -639,7 +679,8 @@
                 "owner": "philipperemy",
                 "repo": "deep-speaker",
                 "stars": 942
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -654,7 +695,8 @@
                 "owner": "BUTSpeechFIT",
                 "repo": "x-vector-kaldi-tf",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -669,7 +711,8 @@
                 "owner": "idiap",
                 "repo": "kaldi-ivector",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -684,7 +727,8 @@
                 "owner": "swshon",
                 "repo": "voxceleb-ivector",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -699,7 +743,8 @@
                 "owner": "manojpamk",
                 "repo": "pytorch_xvectors",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -714,7 +759,8 @@
                 "owner": "Snowdar",
                 "repo": "asv-subtools",
                 "stars": 636
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -729,7 +775,8 @@
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
                 "stars": 1393
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -744,7 +791,8 @@
                 "owner": "IDRnD",
                 "repo": "redimnet",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -766,7 +814,8 @@
                 "owner": "yinruiqing",
                 "repo": "change_detection",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -781,7 +830,8 @@
                 "owner": "akashmjn",
                 "repo": "tinydiarize",
                 "stars": 553
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -802,8 +852,9 @@
                 "last_commit": "2026-08-22T13:06:58Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8576
-              }
+                "stars": 8578
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -818,7 +869,8 @@
                 "owner": "jameslyons",
                 "repo": "python_speech_features",
                 "stars": 2423
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -832,8 +884,9 @@
                 "last_commit": "2025-08-04T16:44:35Z",
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6255
-              }
+                "stars": 6256
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -854,8 +907,9 @@
                 "last_commit": "2026-07-17T01:55:51Z",
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1928
-              }
+                "stars": 1930
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -869,8 +923,9 @@
                 "last_commit": "2026-08-25T08:00:44Z",
                 "owner": "DavidDiazGuerra",
                 "repo": "gpuRIR",
-                "stars": 609
-              }
+                "stars": 611
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -885,7 +940,8 @@
                 "owner": "sunits",
                 "repo": "rir_simulator_python",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -900,7 +956,8 @@
                 "owner": "facebookresearch",
                 "repo": "WavAugment",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -915,7 +972,8 @@
                 "owner": "BUTSpeechFIT",
                 "repo": "EEND_dataprep",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -937,7 +995,8 @@
                 "owner": "wq2012",
                 "repo": "VB_diarization",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -952,7 +1011,8 @@
                 "owner": "desh2608",
                 "repo": "dover-lap",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1027,24 @@
                 "owner": "cadia-lvl",
                 "repo": "diar-az",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
+            },
+            {
+              "node_type": "item",
+              "title": "voxsolo",
+              "description": "Python Verbatim per-speaker audio from diarization: keeps one speaker bit-exact, silences other speakers and overlapped speech; exports EDL/SRT/VTT/Audacity labels for editors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1348593131,
+                "language": "Python",
+                "last_commit": "2026-08-27T17:08:20Z",
+                "owner": "dhayanithi-svaromance",
+                "repo": "voxsolo",
+                "stars": 0
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -995,7 +1072,8 @@
                 "owner": "google",
                 "repo": "speaker-id",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1088,8 @@
                 "owner": "google",
                 "repo": "speaker-id",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1104,8 @@
                 "owner": "joonson",
                 "repo": "voxconverse",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1120,8 @@
                 "owner": "doerlbh",
                 "repo": "MiniVox",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1136,8 @@
                 "owner": "yufan-aslp",
                 "repo": "AliMeeting",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -1077,7 +1159,8 @@
                 "owner": "wq2012",
                 "repo": "BookTubeSpeech-download",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1175,8 @@
                 "owner": "iiscleap",
                 "repo": "NISP-Dataset",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -1120,7 +1204,8 @@
                 "owner": "wq2012",
                 "repo": "VoiceIdentityBook",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
             }
           ],
           "description": null,
@@ -1142,28 +1227,29 @@
             "archived": false,
             "id": 1247591069,
             "language": "Rust",
-            "last_commit": "2026-08-27T02:47:08Z",
+            "last_commit": "2026-08-27T17:31:14Z",
             "owner": "ariso-ai",
             "repo": "oats",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:05:04.269Z"
         }
       ],
       "title": "Products"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:20.624Z",
+    "last_updated": "2026-08-28T06:05:04.269Z",
     "original_repository_info": {
       "archived": false,
       "id": 166505931,
       "language": null,
-      "last_commit": "2026-08-12T13:14:48Z",
+      "last_commit": "2026-08-27T17:51:49Z",
       "owner": "wq2012",
       "repo": "awesome-diarization",
       "stars": 1893
     },
-    "original_repository_sha": "fc8b3f9faba0b87187ef104b44a2d6041833f09d",
+    "original_repository_sha": "03c26960c975c485381bac60c89511d4ac3afafb",
     "enhanced_repository": "enhansome/enhansome-diarization",
     "enhanced_repository_description": null,
     "title": "Awesome Speaker Diarization with stars"
