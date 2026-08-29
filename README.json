@@ -188,7 +188,7 @@
                 "open_issues": 261,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15469,
+                "stars": 15470,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -250,7 +250,7 @@
                 "open_issues": 37,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10481,
+                "stars": 10482,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -465,7 +465,7 @@
                 "open_issues": 37,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10481,
+                "stars": 10482,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -2006,7 +2006,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:41:53.974Z",
+    "last_updated": "2026-08-29T04:25:41.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
