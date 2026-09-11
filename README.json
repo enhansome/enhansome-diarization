@@ -17,11 +17,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T23:55:46Z",
+                "last_commit": "2026-09-10T10:59:25Z",
                 "open_issues": 22,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20249,
+                "stars": 20266,
                 "topics": [
                   "asr",
                   "audio",
@@ -93,10 +93,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:48:19Z",
-                "open_issues": 185,
+                "open_issues": 187,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11811,
+                "stars": 11812,
                 "topics": [
                   "asr",
                   "audio",
@@ -188,7 +188,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15476,
+                "stars": 15481,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -246,11 +246,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-09T08:33:14Z",
+                "last_commit": "2026-09-10T12:20:48Z",
                 "open_issues": 39,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10527,
+                "stars": 10531,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -436,7 +436,7 @@
                 "open_issues": 55,
                 "owner": "juanmc2005",
                 "repo": "diart",
-                "stars": 2023,
+                "stars": 2024,
                 "topics": [
                   "deep-learning",
                   "real-time",
@@ -461,11 +461,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-09T08:33:14Z",
+                "last_commit": "2026-09-10T12:20:48Z",
                 "open_issues": 39,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10527,
+                "stars": 10531,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -570,11 +570,11 @@
                 "id": 531380835,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T09:56:47Z",
+                "last_commit": "2026-09-10T13:58:41Z",
                 "open_issues": 616,
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 14691,
+                "stars": 14711,
                 "topics": [
                   "aarch64",
                   "android",
@@ -612,11 +612,11 @@
                 "id": 1006258471,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T23:43:14Z",
+                "last_commit": "2026-09-10T23:33:20Z",
                 "open_issues": 9,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2747,
+                "stars": 2750,
                 "topics": [
                   "ane",
                   "asr",
@@ -1111,7 +1111,7 @@
                 "open_issues": 177,
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60127,
+                "stars": 60123,
                 "topics": [
                   "deep-learning",
                   "python",
@@ -1263,7 +1263,7 @@
                 "open_issues": 21,
                 "owner": "Snowdar",
                 "repo": "asv-subtools",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
@@ -1284,7 +1284,7 @@
                 "open_issues": 38,
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
-                "stars": 1407,
+                "stars": 1408,
                 "topics": [
                   "asv",
                   "campplus",
@@ -1326,7 +1326,7 @@
                 "open_issues": 10,
                 "owner": "IDRnD",
                 "repo": "redimnet",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
@@ -1400,10 +1400,10 @@
                 "language": "Python",
                 "license": "ISC",
                 "last_commit": "2026-08-22T13:06:58Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8597,
+                "stars": 8598,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1431,7 +1431,7 @@
                 "open_issues": 25,
                 "owner": "jameslyons",
                 "repo": "python_speech_features",
-                "stars": 2423,
+                "stars": 2424,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
@@ -1488,7 +1488,7 @@
                 "open_issues": 22,
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1936,
+                "stars": 1937,
                 "topics": [
                   "acoustics",
                   "adaptive-filtering",
@@ -1976,8 +1976,8 @@
             "id": 1247591069,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-09T19:26:04Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-11T00:03:58Z",
+            "open_issues": 15,
             "owner": "ariso-ai",
             "repo": "oats",
             "stars": 26,
@@ -2006,7 +2006,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:09:23.918Z",
+    "last_updated": "2026-09-11T00:05:19.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
@@ -2018,7 +2018,7 @@
       "open_issues": 4,
       "owner": "wq2012",
       "repo": "awesome-diarization",
-      "stars": 1897,
+      "stars": 1899,
       "topics": [
         "awesome",
         "awesome-list",
