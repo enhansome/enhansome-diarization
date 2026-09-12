@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20283,
+                "stars": 20285,
                 "topics": [
                   "asr",
                   "audio",
@@ -96,7 +96,7 @@
                 "open_issues": 187,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11816,
+                "stars": 11818,
                 "topics": [
                   "asr",
                   "audio",
@@ -138,7 +138,7 @@
                 "open_issues": 205,
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6262,
+                "stars": 6261,
                 "topics": [
                   "audio",
                   "audio-analysis-tasks",
@@ -250,7 +250,7 @@
                 "open_issues": 39,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10535,
+                "stars": 10539,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -465,7 +465,7 @@
                 "open_issues": 39,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10535,
+                "stars": 10539,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -571,10 +571,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T06:27:08Z",
-                "open_issues": 618,
+                "open_issues": 620,
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 14726,
+                "stars": 14738,
                 "topics": [
                   "aarch64",
                   "android",
@@ -616,7 +616,7 @@
                 "open_issues": 9,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2757,
+                "stars": 2760,
                 "topics": [
                   "ane",
                   "asr",
@@ -1111,7 +1111,7 @@
                 "open_issues": 177,
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60124,
+                "stars": 60126,
                 "topics": [
                   "deep-learning",
                   "python",
@@ -1323,7 +1323,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-28T13:58:55Z",
-                "open_issues": 10,
+                "open_issues": 2,
                 "owner": "IDRnD",
                 "repo": "redimnet",
                 "stars": 217,
@@ -1403,7 +1403,7 @@
                 "open_issues": 52,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8602,
+                "stars": 8605,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1452,7 +1452,7 @@
                 "open_issues": 205,
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6262,
+                "stars": 6261,
                 "topics": [
                   "audio",
                   "audio-analysis-tasks",
@@ -1974,10 +1974,10 @@
             "description": "The free, open-source meeting-notes app for your Mac — offline transcription and AI notes, free in the cloud or 100% on-device.",
             "homepage": "https://ariso.ai/oats",
             "id": 1247591069,
-            "language": "TypeScript",
+            "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:59:28Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-12T20:40:54Z",
+            "open_issues": 12,
             "owner": "ariso-ai",
             "repo": "oats",
             "stars": 27,
@@ -2006,7 +2006,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:13:47.938Z",
+    "last_updated": "2026-09-12T23:58:36.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
