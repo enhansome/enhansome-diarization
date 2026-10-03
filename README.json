@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T04:51:05Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "modelscope",
                 "repo": "FunASR",
                 "stars": 20570,
@@ -347,7 +347,7 @@
             {
               "node_type": "item",
               "title": "VBx",
-              "description": null,
+              "description": "BUTSpeechFIT/VBx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +368,7 @@
             {
               "node_type": "item",
               "title": "Variational Bayes HMM over x-vectors diarization. x-vector extractor recipe",
-              "description": null,
+              "description": "phonexiaresearch/VBx-training-recipe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
             {
               "node_type": "item",
               "title": "StreamingSpeakerDiarization",
-              "description": null,
+              "description": "juanmc2005/diart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:08:10.935Z",
+    "last_updated": "2026-10-03T04:40:51.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
@@ -2042,7 +2042,7 @@
       "open_issues": 5,
       "owner": "wq2012",
       "repo": "awesome-diarization",
-      "stars": 1905,
+      "stars": 1906,
       "topics": [
         "awesome",
         "awesome-list",
