@@ -17,11 +17,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T06:50:57Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-10T13:11:37Z",
+                "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20623,
+                "stars": 20636,
                 "topics": [
                   "asr",
                   "audio",
@@ -96,7 +96,7 @@
                 "open_issues": 194,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11861,
+                "stars": 11863,
                 "topics": [
                   "asr",
                   "audio",
@@ -130,7 +130,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
-                "homepage": null,
+                "homepage": "https://magcil.github.io",
                 "id": 23389271,
                 "language": "Python",
                 "license": "Apache-2.0",
@@ -250,7 +250,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10627,
+                "stars": 10628,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -436,7 +436,7 @@
                 "open_issues": 55,
                 "owner": "juanmc2005",
                 "repo": "diart",
-                "stars": 2039,
+                "stars": 2040,
                 "topics": [
                   "deep-learning",
                   "real-time",
@@ -465,7 +465,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10627,
+                "stars": 10628,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -571,10 +571,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T07:49:03Z",
-                "open_issues": 659,
+                "open_issues": 665,
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 15188,
+                "stars": 15208,
                 "topics": [
                   "aarch64",
                   "android",
@@ -613,10 +613,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T22:15:01Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 2997,
+                "stars": 3012,
                 "topics": [
                   "ane",
                   "asr",
@@ -1066,7 +1066,7 @@
                 "open_issues": 46,
                 "owner": "resemble-ai",
                 "repo": "Resemblyzer",
-                "stars": 3304,
+                "stars": 3303,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
@@ -1135,7 +1135,7 @@
                 "open_issues": 177,
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60172,
+                "stars": 60174,
                 "topics": [
                   "deep-learning",
                   "python",
@@ -1427,7 +1427,7 @@
                 "open_issues": 51,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8663,
+                "stars": 8664,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1468,7 +1468,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
-                "homepage": null,
+                "homepage": "https://magcil.github.io",
                 "id": 23389271,
                 "language": "Python",
                 "license": "Apache-2.0",
@@ -1509,10 +1509,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-17T01:55:51Z",
-                "open_issues": 23,
+                "open_issues": 25,
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1976,
+                "stars": 1978,
                 "topics": [
                   "acoustics",
                   "adaptive-filtering",
@@ -2000,8 +2000,8 @@
             "id": 1247591069,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:15:40Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-10T23:59:20Z",
+            "open_issues": 28,
             "owner": "ariso-ai",
             "repo": "oats",
             "stars": 94,
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:43:51.846Z",
+    "last_updated": "2026-10-11T00:56:39.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
