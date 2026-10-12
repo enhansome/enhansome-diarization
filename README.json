@@ -21,7 +21,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20636,
+                "stars": 20646,
                 "topics": [
                   "asr",
                   "audio",
@@ -92,11 +92,11 @@
                 "id": 259710503,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T13:48:19Z",
-                "open_issues": 194,
+                "last_commit": "2026-10-11T21:48:12Z",
+                "open_issues": 190,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11863,
+                "stars": 11864,
                 "topics": [
                   "asr",
                   "audio",
@@ -188,7 +188,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15491,
+                "stars": 15492,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -574,7 +574,7 @@
                 "open_issues": 665,
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 15208,
+                "stars": 15225,
                 "topics": [
                   "aarch64",
                   "android",
@@ -612,11 +612,11 @@
                 "id": 1006258471,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T22:15:01Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-11T04:10:58Z",
+                "open_issues": 25,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 3012,
+                "stars": 3018,
                 "topics": [
                   "ane",
                   "asr",
@@ -1135,7 +1135,7 @@
                 "open_issues": 177,
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60174,
+                "stars": 60177,
                 "topics": [
                   "deep-learning",
                   "python",
@@ -1308,7 +1308,7 @@
                 "open_issues": 38,
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": [
                   "asv",
                   "campplus",
@@ -1427,7 +1427,7 @@
                 "open_issues": 51,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8664,
+                "stars": 8668,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1512,7 +1512,7 @@
                 "open_issues": 25,
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1978,
+                "stars": 1980,
                 "topics": [
                   "acoustics",
                   "adaptive-filtering",
@@ -2000,11 +2000,11 @@
             "id": 1247591069,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-10T23:59:20Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-11T15:05:54Z",
+            "open_issues": 27,
             "owner": "ariso-ai",
             "repo": "oats",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "ai-notes",
               "apple-silicon",
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:56:39.101Z",
+    "last_updated": "2026-10-12T01:16:30.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
