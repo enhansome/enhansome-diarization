@@ -21,7 +21,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20680,
+                "stars": 20694,
                 "topics": [
                   "asr",
                   "audio",
@@ -92,11 +92,11 @@
                 "id": 259710503,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T22:31:53Z",
-                "open_issues": 188,
+                "last_commit": "2026-10-14T23:12:55Z",
+                "open_issues": 184,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11875,
+                "stars": 11879,
                 "topics": [
                   "asr",
                   "audio",
@@ -188,7 +188,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15495,
+                "stars": 15496,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -250,7 +250,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10640,
+                "stars": 10648,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -465,7 +465,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10640,
+                "stars": 10648,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -570,11 +570,11 @@
                 "id": 531380835,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T12:23:10Z",
-                "open_issues": 671,
+                "last_commit": "2026-10-14T03:22:23Z",
+                "open_issues": 670,
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 15261,
+                "stars": 15275,
                 "topics": [
                   "aarch64",
                   "android",
@@ -612,11 +612,11 @@
                 "id": 1006258471,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T04:41:15Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-14T23:38:22Z",
+                "open_issues": 18,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 3062,
+                "stars": 3076,
                 "topics": [
                   "ane",
                   "asr",
@@ -640,6 +640,41 @@
                 ]
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
+            },
+            {
+              "node_type": "item",
+              "title": "speakrs",
+              "description": "Rust Rust implementation of the pyannote community-1 diarization pipeline (segmentation, embedding, PLDA, VBx clustering) with native CPU, CUDA, and CoreML backends and no Python runtime. 7.0% DER on VoxConverse dev at 1786x realtime on an RTX 4090.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Speaker diarization in Rust with pyannote-level accuracy. 900–1940x realtime on NVIDIA GPUs, 430–910x on Apple Silicon.",
+                "homepage": null,
+                "id": 1175516487,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T18:53:40Z",
+                "open_issues": 0,
+                "owner": "avencera",
+                "repo": "speakrs",
+                "stars": 135,
+                "topics": [
+                  "audio",
+                  "coreml",
+                  "cuda",
+                  "diarization",
+                  "ml",
+                  "nvidia",
+                  "onnx-runtime",
+                  "pyannote",
+                  "python",
+                  "rust",
+                  "speaker-diarization",
+                  "speech-diarization",
+                  "who-spoke-when"
+                ]
+              },
+              "first_seen": "2026-10-15T00:29:36.182Z"
             }
           ],
           "description": null,
@@ -965,7 +1000,7 @@
                 "open_issues": 1,
                 "owner": "wq2012",
                 "repo": "SpectralCluster",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "auto-tune",
                   "clustering",
@@ -1135,7 +1170,7 @@
                 "open_issues": 178,
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60190,
+                "stars": 60195,
                 "topics": [
                   "deep-learning",
                   "python",
@@ -1308,7 +1343,7 @@
                 "open_issues": 38,
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
-                "stars": 1435,
+                "stars": 1437,
                 "topics": [
                   "asv",
                   "campplus",
@@ -1427,7 +1462,7 @@
                 "open_issues": 51,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8676,
+                "stars": 8679,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1509,10 +1544,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-17T01:55:51Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1985,
+                "stars": 1987,
                 "topics": [
                   "acoustics",
                   "adaptive-filtering",
@@ -1743,6 +1778,48 @@
                 ]
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VoxLock",
+              "description": "Python Streaming target speaker extraction: keeps one speaker's voice and removes the other voices in the room before speech recognition. 27M parameters, 24 ms algorithmic latency on CPU, ONNX and safetensors weights.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The best performing voice isolator there is. Keeps the caller's voice and removes the other voices in the room before speech-to-text hears them. Open source, streaming, runs on CPU and in the browser. pip install voxlock",
+                "homepage": "https://huggingface.co/arbazsiddiqui/voxlock",
+                "id": 1414486749,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-12T15:52:35Z",
+                "open_issues": 0,
+                "owner": "arbazsiddiqui",
+                "repo": "voxlock",
+                "stars": 9,
+                "topics": [
+                  "audio",
+                  "background-voice-cancellation",
+                  "call-center",
+                  "onnx",
+                  "onnxruntime",
+                  "personalized-speech-enhancement",
+                  "python",
+                  "pytorch",
+                  "real-time",
+                  "speaker-extraction",
+                  "speech",
+                  "speech-enhancement",
+                  "speech-to-text",
+                  "streaming",
+                  "target-speaker-extraction",
+                  "telephony",
+                  "voice-agents",
+                  "voice-ai",
+                  "voice-isolation",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-10-15T00:29:36.182Z"
             }
           ],
           "description": null,
@@ -2030,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:10:37.884Z",
+    "last_updated": "2026-10-15T00:29:36.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
@@ -2038,11 +2115,11 @@
       "id": 166505931,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-16T20:12:39Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-14T21:19:01Z",
+      "open_issues": 5,
       "owner": "wq2012",
       "repo": "awesome-diarization",
-      "stars": 1908,
+      "stars": 1909,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2053,7 +2130,7 @@
         "speech-recognition"
       ]
     },
-    "original_repository_sha": "7c57d6be0d23ae75962da374f493ea826a09c1be",
+    "original_repository_sha": "8e05734a3ca226fdcbc84df11f526948240d1159",
     "enhanced_repository": "enhansome/enhansome-diarization",
     "enhanced_repository_description": null,
     "title": "Awesome Speaker Diarization with stars"
