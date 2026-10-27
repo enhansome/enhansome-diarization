@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-22T17:56:34Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20814,
+                "stars": 20828,
                 "topics": [
                   "asr",
                   "audio",
@@ -46,6 +46,135 @@
                 ]
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NVIDIA NeMo Speech",
+              "description": "Python & PyTorch Scalable generative AI and speech toolkit featuring end-to-end and modular speaker diarization (Sortformer, MSDD, TitaNet speaker embeddings, MarbleNet VAD, and joint ASR-diarization pipelines).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+                "homepage": "https://docs.nvidia.com/nemo/speech/nightly/index.html",
+                "id": 200722670,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-27T00:47:19Z",
+                "open_issues": 389,
+                "owner": "NVIDIA-NeMo",
+                "repo": "Speech",
+                "stars": 18621,
+                "topics": [
+                  "asr",
+                  "deeplearning",
+                  "generative-ai",
+                  "machine-translation",
+                  "neural-networks",
+                  "speaker-diariazation",
+                  "speaker-recognition",
+                  "speech-synthesis",
+                  "speech-translation",
+                  "tts"
+                ]
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WhisperX",
+              "description": "Python & PyTorch Fast automatic speech recognition with word-level timestamps (phoneme forced alignment) and speaker diarization via .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+                "homepage": null,
+                "id": 576103395,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-10-22T14:53:44Z",
+                "open_issues": 214,
+                "owner": "m-bain",
+                "repo": "whisperX",
+                "stars": 24865,
+                "topics": [
+                  "asr",
+                  "speech",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "whisper"
+                ]
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ESPnet",
+              "description": "Python & PyTorch End-to-end speech processing toolkit including neural speaker diarization (EEND, EEND-EDA) and joint speech enhancement/separation and diarization recipes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "End-to-End Speech Processing Toolkit",
+                "homepage": "https://espnet.github.io/espnet/",
+                "id": 114054873,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-26T15:52:50Z",
+                "open_issues": 93,
+                "owner": "espnet",
+                "repo": "espnet",
+                "stars": 9995,
+                "topics": [
+                  "chainer",
+                  "deep-learning",
+                  "end-to-end",
+                  "kaldi",
+                  "machine-translation",
+                  "pytorch",
+                  "singing-voice-synthesis",
+                  "speaker-diarization",
+                  "speech-enhancement",
+                  "speech-recognition",
+                  "speech-separation",
+                  "speech-synthesis",
+                  "speech-translation",
+                  "spoken-language-understanding",
+                  "text-to-speech",
+                  "voice-conversion"
+                ]
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
+            },
+            {
+              "node_type": "item",
+              "title": "3D-Speaker",
+              "description": "Python & PyTorch & C++ Open-source toolkit for single- and multi-modal (audio-visual) speaker verification, recognition, and speaker diarization (CAM++, ERes2Net, overlap detection, and ONNX runtime).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Repository for Single- and Multi-modal Speaker Verification, Speaker Recognition and Speaker Diarization",
+                "homepage": null,
+                "id": 610089108,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-12-08T07:20:17Z",
+                "open_issues": 5,
+                "owner": "modelscope",
+                "repo": "3D-Speaker",
+                "stars": 3198,
+                "topics": [
+                  "3d-speaker",
+                  "campplus",
+                  "cnceleb",
+                  "eres2net",
+                  "language-identification",
+                  "modelscope",
+                  "sdpn",
+                  "speaker-diarization",
+                  "speaker-verification",
+                  "voxceleb"
+                ]
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
             },
             {
               "node_type": "item",
@@ -138,7 +267,7 @@
                 "open_issues": 204,
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6271,
+                "stars": 6273,
                 "topics": [
                   "audio",
                   "audio-analysis-tasks",
@@ -188,7 +317,7 @@
                 "open_issues": 262,
                 "owner": "kaldi-asr",
                 "repo": "kaldi",
-                "stars": 15506,
+                "stars": 15507,
                 "topics": [
                   "c-plus-plus",
                   "cuda",
@@ -236,8 +365,29 @@
             },
             {
               "node_type": "item",
+              "title": "Alize LIA_SpkSeg",
+              "description": "C++ ALIZÉ is an open-source platform for speaker recognition; LIA_SpkSeg provides the tools for speaker diarization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A high-level toolkit for speaker recognition, build on top of ALIZE-Core.",
+                "homepage": "http://alize.univ-avignon.fr",
+                "id": 63704217,
+                "language": "C++",
+                "license": "LGPL-3.0",
+                "last_commit": "2019-01-21T11:01:00Z",
+                "open_issues": 15,
+                "owner": "ALIZE-Speaker-Recognition",
+                "repo": "LIA_RAL",
+                "stars": 123,
+                "topics": []
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
+            },
+            {
+              "node_type": "item",
               "title": "pyannote-audio",
-              "description": "Python Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding.",
+              "description": "Python & PyTorch Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -247,10 +397,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-25T10:14:36Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10706,
+                "stars": 10708,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -304,7 +454,7 @@
                 "open_issues": 44,
                 "owner": "taylorlu",
                 "repo": "Speaker-Diarization",
-                "stars": 504,
+                "stars": 505,
                 "topics": [
                   "ghostvlad",
                   "speaker-diarization",
@@ -422,7 +572,7 @@
             },
             {
               "node_type": "item",
-              "title": "StreamingSpeakerDiarization",
+              "title": "diart",
               "description": "juanmc2005/diart",
               "children": [],
               "repo_info": {
@@ -436,7 +586,7 @@
                 "open_issues": 55,
                 "owner": "juanmc2005",
                 "repo": "diart",
-                "stars": 2043,
+                "stars": 2044,
                 "topics": [
                   "deep-learning",
                   "real-time",
@@ -451,8 +601,8 @@
             },
             {
               "node_type": "item",
-              "title": "Streaming speaker diarization, extends pyannote.audio",
-              "description": "to online processing",
+              "title": "Real-time/streaming speaker diarization extending pyannote.audio",
+              "description": "to online processing (formerly ).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,10 +612,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-25T10:14:36Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10706,
+                "stars": 10708,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -485,7 +635,7 @@
             {
               "node_type": "item",
               "title": "simple_diarizer",
-              "description": "Python Simplified diarization pipeline using some pretrained models. Made to be a simple as possible to go from an input audio file to diarized segments.",
+              "description": "Python Simplified diarization pipeline using pretrained models. Made to be as simple as possible to go from an input audio file to diarized segments.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +690,7 @@
             {
               "node_type": "item",
               "title": "DiaPer",
-              "description": "Python Pytorch implementation for DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors including models pre-trained on free and public data.",
+              "description": "Python & PyTorch PyTorch implementation for DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors including models pre-trained on free and public data.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -561,7 +711,7 @@
             {
               "node_type": "item",
               "title": "sherpa-onnx",
-              "description": "C++ & C & & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift Support speaker diarization, speech recognition, and text-to speech on various platforms with various language bindings.",
+              "description": "C++ & C & & Dart & Go & Java & JavaScript & Kotlin & Pascal & Python & Rust & Swift Supports speaker diarization, speech recognition, and text-to-speech on various platforms with various language bindings.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -570,11 +720,11 @@
                 "id": 531380835,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T04:20:55Z",
-                "open_issues": 644,
+                "last_commit": "2026-10-26T15:20:53Z",
+                "open_issues": 629,
                 "owner": "k2-fsa",
                 "repo": "sherpa-onnx",
-                "stars": 15510,
+                "stars": 15528,
                 "topics": [
                   "aarch64",
                   "android",
@@ -616,7 +766,7 @@
                 "open_issues": 32,
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
-                "stars": 3191,
+                "stars": 3204,
                 "topics": [
                   "ane",
                   "asr",
@@ -644,7 +794,7 @@
             {
               "node_type": "item",
               "title": "speakrs",
-              "description": "Rust Rust implementation of the pyannote community-1 diarization pipeline (segmentation, embedding, PLDA, VBx clustering) with native CPU, CUDA, and CoreML backends and no Python runtime. 7.0% DER on VoxConverse dev at 1786x realtime on an RTX 4090.",
+              "description": "Rust & Python Rust implementation of the pyannote community-1 diarization pipeline (segmentation, embedding, PLDA, VBx clustering) with native CPU, CUDA, and CoreML backends. 7.0% DER on VoxConverse dev at 1912x realtime on an RTX 4090.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -653,7 +803,7 @@
                 "id": 1175516487,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T23:21:12Z",
+                "last_commit": "2026-10-26T21:47:54Z",
                 "open_issues": 0,
                 "owner": "avencera",
                 "repo": "speakrs",
@@ -675,6 +825,36 @@
                 ]
               },
               "first_seen": "2026-10-15T00:29:36.182Z"
+            },
+            {
+              "node_type": "item",
+              "title": "diarizers",
+              "description": "Python & PyTorch Unified pipeline for ASR, standalone speaker diarization (neural segmentation, ECAPA-TDNN speaker embeddings, spectral clustering), and DiarizationLM post-processing, with an interactive Hugging Face Space.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://huggingface.co/diarizers-community",
+                "id": 1412637712,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-18T01:05:58Z",
+                "open_issues": 0,
+                "owner": "diarizers-community",
+                "repo": "diarizers",
+                "stars": 1,
+                "topics": [
+                  "diarization",
+                  "diarizationlm",
+                  "speaker-diarization",
+                  "speakerdiarization",
+                  "speech",
+                  "speech-processing",
+                  "speech-recognition",
+                  "speechrecognition"
+                ]
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
             }
           ],
           "description": null,
@@ -707,7 +887,7 @@
             {
               "node_type": "item",
               "title": "SimpleDER",
-              "description": "Python A lightweight library to compute Diarization Error Rate (DER).",
+              "description": "Python A lightweight library to compute Diarization Error Rate (DER), Jaccard Error Rate (JER), and Word Diarization Error Rate (WDER).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +942,7 @@
             {
               "node_type": "item",
               "title": "NIST md-eval",
-              "description": "Perl (1) modified md-eval.pl from Mary Tai Knox; (2) md-eval-v21.pl from jitendra; (3) md-eval-22.pl from nryant",
+              "description": "Perl (1) md-eval-v21.pl from jitendra; (2) md-eval-22.pl from nryant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1101,7 +1281,7 @@
                 "open_issues": 46,
                 "owner": "resemble-ai",
                 "repo": "Resemblyzer",
-                "stars": 3305,
+                "stars": 3307,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:04.269Z"
@@ -1109,7 +1289,7 @@
             {
               "node_type": "item",
               "title": "Speaker_Verification",
-              "description": "d-vector Python & TensorFlow Tensorflow implementation of generalized end-to-end loss for speaker verification.",
+              "description": "d-vector Python & TensorFlow TensorFlow implementation of generalized end-to-end loss for speaker verification.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1350,7 @@
                 "open_issues": 178,
                 "owner": "CorentinJ",
                 "repo": "Real-Time-Voice-Cloning",
-                "stars": 60211,
+                "stars": 60212,
                 "topics": [
                   "deep-learning",
                   "python",
@@ -1211,7 +1391,7 @@
             {
               "node_type": "item",
               "title": "x-vector-kaldi-tf",
-              "description": "x-vector Python & TensorFlow & Perl Tensorflow implementation of x-vector topology on top of Kaldi recipe.",
+              "description": "x-vector Python & TensorFlow & Perl TensorFlow implementation of x-vector topology on top of Kaldi recipe.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,7 +1463,7 @@
             {
               "node_type": "item",
               "title": "pytorch_xvectors",
-              "description": "x-vector Python & PyTorch PyTorch implementation of Voxceleb x-vectors. Additionaly, includes meta-learning architectures for embedding training. Evaluated with speaker diarization and speaker verification.",
+              "description": "x-vector Python & PyTorch PyTorch implementation of Voxceleb x-vectors. Additionally, includes meta-learning architectures for embedding training. Evaluated with speaker diarization and speaker verification.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1309,7 +1489,7 @@
             {
               "node_type": "item",
               "title": "asv-subtools",
-              "description": "i-vector & x-vector Kaldi & PyTorch ASV-Subtools is developed based on Pytorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole.",
+              "description": "i-vector & x-vector Kaldi & PyTorch ASV-Subtools is developed based on PyTorch and Kaldi for the task of speaker recognition, language identification, etc. The 'sub' of 'subtools' means that there are many modular tools and the parts constitute the whole.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,7 +1523,7 @@
                 "open_issues": 38,
                 "owner": "wenet-e2e",
                 "repo": "wespeaker",
-                "stars": 1443,
+                "stars": 1444,
                 "topics": [
                   "asv",
                   "campplus",
@@ -1372,7 +1552,7 @@
             {
               "node_type": "item",
               "title": "ReDimNet",
-              "description": "improved resnet Pytorch Neural network architecture presented in the paper Reshape Dimensions Network for Speaker Recognition",
+              "description": "improved resnet Python & PyTorch Neural network architecture presented in the paper Reshape Dimensions Network for Speaker Recognition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1420,8 +1600,8 @@
             },
             {
               "node_type": "item",
-              "title": "tidydiarize",
-              "description": "Python Diarization inside OpenAI Whisper decoder",
+              "title": "tinydiarize",
+              "description": "Python & PyTorch Diarization inside OpenAI Whisper decoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1462,7 +1642,7 @@
                 "open_issues": 50,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8710,
+                "stars": 8711,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1511,7 +1691,7 @@
                 "open_issues": 204,
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6271,
+                "stars": 6273,
                 "topics": [
                   "audio",
                   "audio-analysis-tasks",
@@ -1544,7 +1724,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-17T01:55:51Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
                 "stars": 1997,
@@ -1618,7 +1798,7 @@
             {
               "node_type": "item",
               "title": "WavAugment",
-              "description": "Python & PyTorch WavAugment performs data augmentation on audio data. The audio data is represented as pytorch tensors",
+              "description": "Python & PyTorch WavAugment performs data augmentation on audio data. The audio data is represented as PyTorch tensors.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1718,7 +1898,7 @@
             {
               "node_type": "item",
               "title": "Diar-az",
-              "description": "Python Data formatting tool to support the ruv-di dataset. Kaldi to Gecko to Kaldi and corpus and back",
+              "description": "Bash & Python Data formatting tool to support the ruv-di dataset. Kaldi to Gecko to Kaldi and corpus and back.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1795,7 +1975,7 @@
                 "open_issues": 0,
                 "owner": "arbazsiddiqui",
                 "repo": "voxlock",
-                "stars": 62,
+                "stars": 64,
                 "topics": [
                   "audio",
                   "background-voice-cancellation",
@@ -1823,8 +2003,45 @@
             },
             {
               "node_type": "item",
+              "title": "OATS",
+              "description": "Rust & TypeScript Open-source macOS app for meeting transcription and notes with speaker diarization (FluidAudio) and optional fully offline mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The free, open-source meeting-notes app for your Mac — offline transcription and AI notes, free in the cloud or 100% on-device.",
+                "homepage": "https://ariso.ai/oats",
+                "id": 1247591069,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-10-22T14:10:18Z",
+                "open_issues": 23,
+                "owner": "ariso-ai",
+                "repo": "oats",
+                "stars": 99,
+                "topics": [
+                  "ai-notes",
+                  "apple-silicon",
+                  "local-first",
+                  "macos",
+                  "meeting-notes",
+                  "menubar-app",
+                  "mlx",
+                  "on-device",
+                  "open-source",
+                  "privacy",
+                  "rust",
+                  "speech-to-text",
+                  "tauri",
+                  "transcription",
+                  "vue"
+                ]
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
+            },
+            {
+              "node_type": "item",
               "title": "akou",
-              "description": "TypeScript Open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization.",
+              "description": "TypeScript & Rust Open-source macOS app that records calls and meetings and transcribes them on-device, with speaker labels from NVIDIA Nemotron 3 Diarization.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1833,8 +2050,8 @@
                 "id": 1383948186,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T00:09:02Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-27T00:03:56Z",
+                "open_issues": 5,
                 "owner": "GeiserX",
                 "repo": "akou",
                 "stars": 15,
@@ -1871,7 +2088,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Transcribe meetings, calls and dictation locally on your Mac – with speaker recognition, no cloud. Whisper + pyannote, menu bar app. German and English.",
-                "homepage": "https://transcriber.teconomix.net",
+                "homepage": "https://transcriber.teconomix.net/en/?k=gh-home",
                 "id": 1413311654,
                 "language": "Swift",
                 "license": "MIT",
@@ -1884,12 +2101,16 @@
                   "apple-silicon",
                   "dictation",
                   "local-first",
+                  "local-llm",
                   "macos",
                   "mcp-server",
                   "meeting-notes",
+                  "meeting-transcription",
                   "menubar-app",
                   "mlx",
+                  "obsidian",
                   "offline",
+                  "ollama",
                   "privacy",
                   "pyannote",
                   "speaker-diarization",
@@ -1917,7 +2138,7 @@
             {
               "node_type": "item",
               "title": "2000 NIST Speaker Recognition Evaluation",
-              "description": "Disk-6 (Switchboard), Disk-8 (CALLHOME) Multiple $2400.00 Evaluation Plan",
+              "description": "Disk-6 (Switchboard), Disk-8 (CALLHOME) Multiple $500.00 Evaluation Plan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1970,8 +2191,50 @@
             },
             {
               "node_type": "item",
+              "title": "The AMI Meeting Corpus",
+              "description": "Together with audios (need to be processed; see ami-diarization-setup) en Free 100 hours of multi-accent English meetings. License (CC BY 4.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 328924213,
+                "language": "Shell",
+                "license": "Apache-2.0",
+                "last_commit": "2024-01-22T14:10:28Z",
+                "open_issues": 2,
+                "owner": "pyannote",
+                "repo": "AMI-diarization-setup",
+                "stars": 46,
+                "topics": []
+              },
+              "first_seen": "2026-10-27T01:27:04.985Z"
+            },
+            {
+              "node_type": "item",
               "title": "VoxConverse",
-              "description": "TBD TBD Free VoxConverse is an audio-visual diarisation dataset consisting of over 50 hours of multispeaker clips of human speech, extracted from YouTube videos",
+              "description": "joonson/voxconverse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spot the conversation: speaker diarisation in the wild",
+                "homepage": null,
+                "id": 279545997,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-07-26T18:48:44Z",
+                "open_issues": 1,
+                "owner": "joonson",
+                "repo": "voxconverse",
+                "stars": 171,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:05:04.269Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Dev",
+              "description": "& Test RTTMs (v0.3)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1992,7 +2255,7 @@
             {
               "node_type": "item",
               "title": "MiniVox Benchmark",
-              "description": "MiniVox Benchmark en Free MiniVox is an automatic framework to transform any speaker-labelled dataset into continuous speech datastream with episodically revealed label feedbacks.",
+              "description": "Generated automatically en Free MiniVox is an automatic framework to transform any speaker-labelled dataset into continuous speech datastream with episodically revealed label feedbacks.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2025,7 +2288,7 @@
             {
               "node_type": "item",
               "title": "The AliMeeting Corpus",
-              "description": "Together with audios zh Free",
+              "description": "Together with audios zh Free 118.75 hours of real Mandarin meetings (far-field 8-ch mic array + near-field headsets, ~42% overlap in train; CC BY-SA 4.0). Baseline repo.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2061,7 +2324,7 @@
             {
               "node_type": "item",
               "title": "BookTubeSpeech",
-              "description": "8K 8K en Free Audio samples extracted from BookTube videos - videos where people share their opinions on books - from YouTube. The dataset can be downloaded using BookTubeSpeech-download.",
+              "description": "8.4K videos 8.4K en Free Audio samples (~1,090 hours) extracted from BookTube YouTube videos (CC BY 4.0). The dataset can be downloaded using BookTubeSpeech-download.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2082,7 +2345,7 @@
             {
               "node_type": "item",
               "title": "NISP-Dataset",
-              "description": "? 345 hi, kn, ml, ta, te (all Indian languages) Free This dataset contains speech recordings along with speaker physical parameters (height, weight, ... ) as well as regional information and linguistic information.",
+              "description": "28K+ 345 en, hi, kn, ml, ta, te Free Multi-accent Indian English and 5 Indian languages (56.9 hours, CC BY 4.0) along with speaker physical parameters (height, weight, ...) and regional/linguistic metadata.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2107,87 +2370,10 @@
         }
       ],
       "title": "Datasets"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Voice Identity Techniques: From core algorithms to engineering practice (Chinese)",
-              "description": "by Quan Wang, 2020",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "《声纹技术：从核心算法到工程实践》",
-                "homepage": "https://item.jd.com/12970526.html",
-                "id": 268415605,
-                "language": null,
-                "license": null,
-                "last_commit": "2022-09-12T17:33:13Z",
-                "open_issues": 0,
-                "owner": "wq2012",
-                "repo": "VoiceIdentityBook",
-                "stars": 176,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:05:04.269Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Books"
-        }
-      ],
-      "title": "Other learning materials"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ariso AI",
-          "description": "OATS - open-source macOS app for meeting transcription and notes with speaker diarization and optional fully offline mode",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The free, open-source meeting-notes app for your Mac — offline transcription and AI notes, free in the cloud or 100% on-device.",
-            "homepage": "https://ariso.ai/oats",
-            "id": 1247591069,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-22T14:10:18Z",
-            "open_issues": 23,
-            "owner": "ariso-ai",
-            "repo": "oats",
-            "stars": 99,
-            "topics": [
-              "ai-notes",
-              "apple-silicon",
-              "local-first",
-              "macos",
-              "meeting-notes",
-              "menubar-app",
-              "mlx",
-              "on-device",
-              "open-source",
-              "privacy",
-              "rust",
-              "speech-to-text",
-              "tauri",
-              "transcription",
-              "vue"
-            ]
-          },
-          "first_seen": "2026-08-28T06:05:04.269Z"
-        }
-      ],
-      "title": "Products"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:15:22.433Z",
+    "last_updated": "2026-10-27T01:27:04.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.",
@@ -2195,11 +2381,11 @@
       "id": 166505931,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-15T20:58:28Z",
+      "last_commit": "2026-10-26T14:47:16Z",
       "open_issues": 4,
       "owner": "wq2012",
       "repo": "awesome-diarization",
-      "stars": 1912,
+      "stars": 1913,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2210,7 +2396,7 @@
         "speech-recognition"
       ]
     },
-    "original_repository_sha": "22e4d619bb4f85e58e6cbe787127262379b5a5cd",
+    "original_repository_sha": "63b78d7f2eda19a59e6a448f09defa87044d631b",
     "enhanced_repository": "enhansome/enhansome-diarization",
     "enhanced_repository_description": null,
     "title": "Awesome Speaker Diarization with stars"
